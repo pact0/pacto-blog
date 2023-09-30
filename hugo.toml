@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://pact0.github.io/pacto-blog/'
 # website title
 title = "Pacto's blog"
 defaultContentLanguage = "en"
