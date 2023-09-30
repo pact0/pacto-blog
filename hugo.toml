@@ -391,8 +391,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         enable = true
         owner = "pact0"
         repo = "https://github.com/pact0/pacto-blog"
-        clientId = "e4a3d56e43fdf7ebb3cf"
-        clientSecret = "d8380f50a5c55cd80bf83032d62407fe2a65a77c"
+        clientId = "1b343db5c8b9cb09d997"
+        clientSecret = "3cec84edc37906b70f5bdc7d238b1e3f87587ff9"
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = false
