@@ -390,7 +390,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       [params.page.comment.gitalk]
         enable = true
         owner = "pact0"
-        repo = "https://github.com/pact0/pacto-blog"
+        repo = "pacto-blog"
         clientId = "1b343db5c8b9cb09d997"
         clientSecret = "3cec84edc37906b70f5bdc7d238b1e3f87587ff9"
       # Valine comment config (https://github.com/xCss/Valine)
