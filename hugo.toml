@@ -440,9 +440,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # utterances comment config (https://utteranc.es/)
       [params.page.comment.utterances]
         enable = true
-        repo = "https://github.com/pact0/pacto-blog"
+        repo = "pact0/pacto-blog"
         issueTerm = "pathname"
-        label = ""
+        label = "Comment"
         lightTheme = "github-light"
         darkTheme = "github-dark"
       # giscus comment config (https://giscus.app/)
