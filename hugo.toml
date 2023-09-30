@@ -388,16 +388,17 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         shortname = ""
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
-        enable = true
-        owner = "pact0"
-        repo = "pacto-blog"
-        clientId = "1b343db5c8b9cb09d997"
-        clientSecret = "3cec84edc37906b70f5bdc7d238b1e3f87587ff9"
+        enable = false
+        owner = ""
+        repo = ""
+        clientId = ""
+        clientSecret = ""
+        admin = ""
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = false
-        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
-        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+        appId = ""
+        appKey = ""
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -438,8 +439,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         enable = false
       # utterances comment config (https://utteranc.es/)
       [params.page.comment.utterances]
-        enable = false
-        repo = ""
+        enable = true
+        repo = "https://github.com/pact0/pacto-blog"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"
