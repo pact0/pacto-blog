@@ -389,13 +389,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
         enable = true
-        owner = ""
-        repo = ""
-        clientId = ""
-        clientSecret = ""
+        owner = "pact0"
+        repo = "pacto-blog"
+        clientId = "e4a3d56e43fdf7ebb3cf"
+        clientSecret = "d8380f50a5c55cd80bf83032d62407fe2a65a77c"
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
