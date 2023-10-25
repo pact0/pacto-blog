@@ -13,8 +13,8 @@ images: []
 tags: []
 categories: []
 
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "hello-world.png"
+featuredImagePreview: "hello-world.png"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -55,7 +55,7 @@ library:
     # Or
     # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: ["/images/hugo-image.png", "/images/harvest-bg.jpg"]
+  images: ["/images/hugo-image.png", "/images/harvest-bg.jpg", "hello-world.png"]
   # ...
 ---
 
